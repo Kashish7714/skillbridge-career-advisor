@@ -1,0 +1,31 @@
+title,city,skills
+Data Analyst,Delhi NCR,python;sql;excel;pandas;data visualization;power bi
+Data Analyst,Lucknow,sql;excel;tableau;statistics;communication
+Junior Data Scientist,Bengaluru,python;pandas;numpy;scikit-learn;machine learning;statistics
+Machine Learning Intern,Hyderabad,python;numpy;pandas;scikit-learn;machine learning;git
+Machine Learning Engineer,Bengaluru,python;machine learning;deep learning;pytorch;docker;aws;mlops
+AI Engineer,Pune,python;deep learning;tensorflow;nlp;fastapi;docker
+NLP Engineer,Hyderabad,python;nlp;deep learning;pytorch;scikit-learn
+Computer Vision Engineer,Bengaluru,python;computer vision;opencv;deep learning;pytorch
+Data Engineer,Pune,python;sql;spark;airflow;aws;docker
+Business Analyst,Delhi NCR,sql;excel;power bi;communication;statistics
+BI Developer,Hyderabad,sql;power bi;tableau;excel;data visualization
+Python Developer,Lucknow,python;django;sql;git;html
+Python Developer,Remote,python;flask;sql;git;docker
+Backend Developer,Bengaluru,python;fastapi;sql;docker;aws
+Full Stack Developer,Pune,javascript;react;html;css;python;sql
+Web Developer,Lucknow,html;css;javascript;react;git
+Analytics Associate,Delhi NCR,sql;python;excel;tableau;statistics
+Research Associate (AI),Remote,python;deep learning;pytorch;nlp;statistics
+MLOps Engineer,Bengaluru,python;docker;aws;mlops;git;airflow
+Data Science Intern,Remote,python;pandas;numpy;matplotlib;seaborn;machine learning
+Data Science Intern,Delhi NCR,python;sql;pandas;scikit-learn;statistics;streamlit
+Junior Data Analyst,Remote,excel;sql;python;data visualization;matplotlib
+Data Scientist,Hyderabad,python;machine learning;deep learning;sql;statistics;scikit-learn
+AI/ML Intern,Pune,python;machine learning;numpy;pandas;scikit-learn;git
+Generative AI Developer,Bengaluru,python;nlp;fastapi;docker;deep learning
+Software Engineer,Hyderabad,python;sql;git;docker;javascript
+Reporting Analyst,Lucknow,excel;sql;power bi;communication
+Machine Learning Intern,Remote,python;scikit-learn;pandas;machine learning;streamlit;git
+Data Visualization Specialist,Delhi NCR,tableau;power bi;sql;data visualization;excel
+Cloud Data Engineer,Bengaluru,python;sql;aws;spark;airflow
